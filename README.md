@@ -1,5 +1,5 @@
 # Bodygee Integration API
-This API provides basic functionalities to add your members to Bodygee system.
+This API provides basic functionalities to add your members to Bodygee system.  
 Please read the [API documention](https://github.com/BODYGEE/bodygee-integration-API/wiki) in the Wiki.
 
 ## Provided functionality
