@@ -17,12 +17,12 @@ Open a member result in the Bodygee Coach App by using predefined link
 ### Client App Integration
 Redirect your members to Bodygee Client App from your own mobile app
 - Open Bodygee Client App out of your app
-- Member i s automatically signed in to Bodygee Client App by using a pre generated Access Token
+- Member is automatically signed in to Bodygee Client App by using a pre generated Access Token
 - App store is opened if Bodygee App is not installed
 
 ## API Keys
 A valid API key is required for all API requests. You receive the needed keys with your subscription. 
-Please contact us on https://bodygee.com if you are interessted.
+Please contact us on https://bodygee.com if you are interested.
 
 ## Contributors
 To use this API, it is recommended that you have the necessary expertise in using REST APIs. 
