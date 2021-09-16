@@ -4,9 +4,10 @@ Please read the [API documention](https://github.com/BODYGEE/bodygee-integration
 
 ## Provided functionality
 ### Members synchronization
-Add your members to Bodygee system (add, edit, delete
+https://github.com/BODYGEE/bodygee-integration-API/wiki/Members
+Add your members to Bodygee system (add, edit, delete).
 - You don’t need to add your members manually
-- M embers are listed before the first scan
+- Members are listed before the first scan
 - Use your member id to search a member in a Bodygee Application
 
 ### Coach App Integration
