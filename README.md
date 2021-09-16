@@ -4,7 +4,7 @@ Please read the [API documention](https://github.com/BODYGEE/bodygee-integration
 
 ## Provided functionality
 ### Members synchronization
-https://github.com/BODYGEE/bodygee-integration-API/wiki/Members
+https://github.com/BODYGEE/bodygee-integration-API/wiki/Members  
 Add your members to Bodygee system (add, edit, delete).
 - You don’t need to add your members manually
 - Members are listed before the first scan
