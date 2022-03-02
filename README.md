@@ -1,6 +1,5 @@
 # Bodygee Integration API
 This API provides basic functionalities to add your members to Bodygee system.  
-Please read the [API documention](https://github.com/BODYGEE/bodygee-integration-API/wiki) in the Wiki.
 
 ## Provided functionality
 ### Members synchronization
@@ -20,6 +19,9 @@ Redirect your members to Bodygee Client App from your own mobile app
 - Open Bodygee Client App out of your app
 - Member is automatically signed in to Bodygee Client App by using a pre generated Access Token
 - App store is opened if Bodygee App is not installed
+
+## API Documentation
+Please read the full [API documention](https://github.com/BODYGEE/bodygee-integration-API/wiki) in the Wiki.
 
 ## API Keys
 A valid API key is required for all API requests. You receive the needed keys with your subscription. 
