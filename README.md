@@ -1,7 +1,7 @@
 # Bodygee Integration API
 Please read the full [API documention](https://github.com/BODYGEE/bodygee-integration-API/wiki) in the Wiki.
 
-## Members Synchronisation
+## Member Synchronisation
 Add your members to the Bodygee system using the Bodygee API (add, edit, delete member)
 - You don’t need to add your members manually
 - Members are listed before the first scan
@@ -15,7 +15,7 @@ Automatically read any member’s data from Bodygee API to your existing applica
 - Display your members’ body measurement data in your own existing gym app
 - Possibility to register a listener URL to be informed when a new 3D Avatar is published
 
-see [API documentation/Members-Data](https://github.com/BODYGEE/bodygee-integration-API/wiki/Members-Data)
+see [API documentation/Members-Data-Export](https://github.com/BODYGEE/bodygee-integration-API/wiki/Members-Data-Export)
 
 ## Client App Integration
 Redirect your members to Bodygee Client App from your own mobile app
